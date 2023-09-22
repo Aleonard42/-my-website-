@@ -1,2 +1,2 @@
-# -my-website-
+# my-website
 This is my beginner website
